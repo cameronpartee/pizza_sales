@@ -1,2 +1,3 @@
 # pizza_sales
-Power BI Dashboard, KPI Requirements Document, CSV file
+
+Practice project that includes a Power BI Dashboard, KPI Requirements Document, and a CSV file.
